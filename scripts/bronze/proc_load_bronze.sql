@@ -17,6 +17,7 @@ BEGIN
     RAISE NOTICE '------------------------------------------';
     RAISE NOTICE 'Loading CRM table';
     RAISE NOTICE '------------------------------------------';
+    RAISE NOTICE '';
 
     -- Chargement de bronze.crm_cust_info
     RAISE NOTICE 'Truncating table: bronze.crm_cust_info';

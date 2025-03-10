@@ -27,4 +27,4 @@ CREATE DATABASE DataWarehouse;
 -- Créer les schémas
 CREATE SCHEMA bronze; -- Schéma pour les données brutes
 CREATE SCHEMA silver; -- Schéma pour les données transformées
-CREATE SCHEMA gold;   -- Schéma pour les données agrégées et prêtes à l'utilisation
+CREATE SCHEMA gold;   -- Schéma pour les données agrégées et prêtes à l'utilisation 

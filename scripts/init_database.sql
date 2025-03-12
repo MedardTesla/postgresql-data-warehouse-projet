@@ -20,7 +20,6 @@ WARNING:
 CREATE DATABASE DataWarehouse;
 
 -- Vérifier si la base de données a été créée
--- SELECT * FROM pg_database WHERE datname = 'datawarehouse';
 
 -- Se connecter à la base de données 'DataWarehouse' avant d'exécuter les requêtes suivantes
 

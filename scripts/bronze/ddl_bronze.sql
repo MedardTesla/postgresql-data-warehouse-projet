@@ -1,4 +1,3 @@
-
 drop table if exists bronze.crm_cust_info;
 create table bronze.crm_cust_info (
 	cst_id int,
@@ -20,7 +19,7 @@ create table bronze.crm_prd_info (
 	prd_nm varchar(50),
 	prd_cost numeric(10),
 	prd_line varchar(50),
-	prd_start_dt varchar(50),
+	prd_start_dt date,
 	prd_end_dt date
 );
 
@@ -60,6 +59,12 @@ create table bronze.erp_px_cat_g1v2 (
 	subcat varchar(50),
 	maintenance varchar(50)
 );
+
+
+
+
+
+
 
 
 

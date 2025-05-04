@@ -240,6 +240,9 @@ BEGIN
     end_time := NOW();
     RAISE NOTICE 'Load duration: % s', end_time - start_time;
     RAISE NOTICE '------------------------------------------';
-    RAISE NOTICE ' ';
+    RAISE NOTICE ' '
+    EXCEPTION
+    WHEN others THEN
+        RAISE NOTICE 'Une erreur inattendue s''est produite : %', SQLERRM;;
 END;
 $$;

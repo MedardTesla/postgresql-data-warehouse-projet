@@ -8,7 +8,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 ##  Project Requirements
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
-![Logo](https://github.com/MedardTesla/sql-data-wherehouse-projet/blob/main/docs/medallion_architecture.png)
+![Logo](https://github.com/MedardTesla/sql-data-wherehouse-projet/blob/main/medallion_architecture.drawio.png)
 ### Objectives
 Develop a modern data warehouse using Postgresql to consolidate sales data, enabling analytical reporting and informed decision-making.
 

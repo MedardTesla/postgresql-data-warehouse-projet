@@ -81,3 +81,7 @@ This project is licensed under the [MIT License](https://github.com/MedardTesla/
 ## 🌟 About Me
 
 Hi there! I'm **MINLEKIB Yendouboan**. I'm an Data professional with expertise in SQL, Python, Excel and Power BI, passionate about process automation and data engineering. My goal is to transform raw data into actionable insights to optimize decision-making and improve operational efficiency.
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yminlekib/)

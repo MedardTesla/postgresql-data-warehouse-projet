@@ -85,3 +85,4 @@ Hi there! I'm **MINLEKIB Yendouboan**. I'm an Data professional with expertise i
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yminlekib/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](minlekibyendouboan@gmail.com)
